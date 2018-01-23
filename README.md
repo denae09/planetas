@@ -1,4 +1,4 @@
-## Hola esto es una readme
+## Hola esto es una readme (googlear markdown cheat sheet)
 doble espacio es cambio de linea
 `entre comillas sencillas se escribe un codigo`
 Emphasis, aka italics, with *asterisks* or _underscores_.
